@@ -13,7 +13,9 @@ Please prefer to use your Whole Hand (both forward-facing and backward-facing ca
 
 Remember to install the important modules :
 pip install opencv-python
+
 pip install cvzone
+
 pip install mediapipe
 
 # About
