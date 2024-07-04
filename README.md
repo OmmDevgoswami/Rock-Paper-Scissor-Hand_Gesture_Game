@@ -7,6 +7,8 @@ Please prefer to use your Whole Hand (both forward-facing and backward-facing ca
 
 
 ![Rock-Paper-Scissor](https://github.com/OmmDevgoswami/Rock-Paper-Scissor-Hand_Gesture_Game/assets/127383096/f78c5540-f4bd-4f08-ba20-a32fbb5694b7)
+
+
 //Score : https://stock.adobe.com/in/images/rock-scissors-paper-hand-gesture-vector-line-icons/332862747
 
 # About
