@@ -11,17 +11,20 @@ Please prefer to use your Whole Hand (both forward-facing and backward-facing ca
 
 //Score : https://stock.adobe.com/in/images/rock-scissors-paper-hand-gesture-vector-line-icons/332862747
 
+
 Remember to install the important modules :
-pip install opencv-python
 
-pip install cvzone
+1) pip install opencv-python
 
-pip install mediapipe
+2) pip install cvzone
+
+3) pip install mediapipe
 
 # About
 This is a personal project made using OpenCV and cvzone Modules.
 
-_import cv2_
-_from cvzone.HandTrackingModule import HandDetector_ 
+1. _import cv2_
+
+2. _from cvzone.HandTrackingModule import HandDetector_ 
 
 Special Thanks for "Murtaza's Workshop" for the deep down tutorial and explanation about OpenCV and Mediapipe Modules of Python with his amazing YouTube Tutorials.
