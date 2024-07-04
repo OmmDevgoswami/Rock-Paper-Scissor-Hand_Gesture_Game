@@ -13,7 +13,9 @@ Please prefer to use your Whole Hand (both forward-facing and backward-facing ca
 
 # About
 This is a personal project made using OpenCV and cvzone Modules.
+
 _import cv2_
+
 _from cvzone.HandTrackingModule import HandDetector_ 
 
 Special Thanks for "Murtaza's Workshop" for the deep down tutorial and explanation about OpenCV and Mediapipe Modules of Python with his amazing YouTube Tutorials.
